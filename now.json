@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "alias": "hellow-vercel",
+  "scope": "memorylovers",
+  "routes": [{ "src": "/.*", "dest": "/api/index" }]
+}
